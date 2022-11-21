@@ -1,11 +1,11 @@
 {
-	"description": "Mine-imator language file. Copy and rename this to begin creating your own translation.",
+	"description": "Mine-imator Traduzione in Italiano. Fatto da Lorenzo Giannini (Loweredgames)",
 	"file/": {
-		"language": "English",
-		"locale": "en-US",
-		"translator": "David & Nimi",
-		"forversion": "2.0",
-		"lastchange": "2022.10.31"
+		"language": "Italian",
+		"locale": "it-it",
+		"translator": "Lorenzo Giannini",
+		"forversion": "2.0_BETA",
+		"lastchange": "BUILDING:21.11.2022a_BETA"
 	},
 	"particle/": {
 		"default": "Default spawner",
@@ -114,8 +114,8 @@
 		},
 		"customaccentcolor": "Custom accent color",
 		"editkeybind": "Edit keybind",
-		"languageadd": "Add language",
-		"languagefolder": "Open languages folder",
+		"languageadd": "Aggiungi lingua",
+		"languagefolder": "Apri la cartella lingua",
 		"viewlist": "List view",
 		"viewgrid": "Grid view",
 		"experimental": "This setting is experimental and is not fully supported.",
@@ -3116,7 +3116,7 @@
 			"advanced": "Advanced",
 			"advancedtip": "Access to all available features, recommended for advanced users."
 		},
-		"minecraftversion": "Minecraft version",
+		"minecraftversion": "Minecraft versione",
 		"backup": "Automatic backups",
 		"backuptime": "Time between backups",
 		"backuptimeminutes": " min",
