@@ -5,7 +5,7 @@
 		"locale": "it-it",
 		"translator": "Lorenzo Giannini",
 		"forversion": "2.0.0",
-		"lastchange": "1.0.0_BETA - BUILDING:28.09.2023_1"
+		"lastchange": "1.0.0_BETA - BUILDING:28.09.2023_2"
 	},
 	"particle/": {
 		"default": "Spawner predefinito",
@@ -260,8 +260,8 @@
 		"sortby": "Sort by"
 	},
 	"welcome/": {
-		"caption": "Benvenuti su Mine-imator!",
-		"description": "You're in \"Simple mode\" and certain features will be hidden to help you get started learning Mine-imator. Advanced features can be unlocked by upgrading Mine-imator at a later time.",
+		"caption": "Benvenuti/o su Mine-imator!",
+		"description": "Sei in \"Modalità semplice\" e alcune funzionalità saranno nascoste per aiutarti a iniziare ad apprendere Mine-imator. Le funzionalità avanzate possono essere sbloccate aggiornando Mine-imator in un secondo momento.",
 		"continue": "Continue"
 	},
 	"about/": {
@@ -276,9 +276,9 @@
 		"site": "Visita il sito web Mine-imator",
 		"forums": "Visita il forum di Mine-imator.",
 		"twitter": "Visita Mine-imator su twitter/x.",
-		"discord": "Entra su Mine-imator su Discord server.",
+		"discord": "Entra sul Discord server di Mine-imator.",
 		"upgrade": "Aggiornamento",
-		"donate": "Donate Qui"
+		"donate": "Dona"
 	},
 	"recent/": {
 		"lastopened": "Last opened",
