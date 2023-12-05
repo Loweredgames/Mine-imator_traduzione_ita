@@ -4,8 +4,8 @@
 		"language": "Italian",
 		"locale": "it-it",
 		"translator": "Fatto da Lorenzo Giannini",
-		"forversion": "2.0.1",
-		"lastchange": "BUILDING:30.10.2023_0 - 1.0.0b"
+		"forversion": "2.0.2",
+		"lastchange": "BUILDING:30.10.2023_1 - 1.0.0beta"
 	},
 	"particle/": {
 		"default": "Spawner predefinito",
@@ -319,7 +319,8 @@
 		"restartprogram": "Restart Mine-imator to apply setting changes.",
 		"download": "Download",
 		"view": "View",
-		"rendersaved": "Render settings saved successfully!"
+		"rendersaved": "Render settings saved successfully!",
+		"close": "Close"
 	},
 	"error/": {
 		"loadassets": "The Minecraft assets could not be loaded. Try re-installing Mine-imator. See the log for details.",
